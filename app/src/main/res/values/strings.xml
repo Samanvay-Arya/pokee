@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokee</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    <string name="splash_terms">By continuing you agree to Pokee\'s Terms and condition \n-->
+    <!--    and confirms that you have read Pokee's Privacy policy</string>-->
+</resources>

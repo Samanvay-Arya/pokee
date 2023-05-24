@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:titleCondensed="Hom"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="always"
+        android:id="@+id/BottomBarHome"/>
+    <item android:title="Messages"
+        android:titleCondensed="Mes"
+        app:showAsAction="always"
+        android:enabled="true"
+        android:icon="@drawable/ic_comments"
+        android:id="@+id/BottomBarMessages"/>
+    <item android:title="All Member"
+        android:titleCondensed="All"
+        app:showAsAction="always"
+        android:enabled="false"
+        android:id="@+id/BottomBar_Empty2"/>
+    <item android:title="Likes"
+        android:titleCondensed="Lik"
+        android:icon="@drawable/ic_favorite"
+        app:showAsAction="always"
+        android:id="@+id/BottomBarLikes"/>
+    <item android:title="Profile"
+        android:titleCondensed="pro"
+        android:icon="@drawable/ic_profile"
+        app:showAsAction="always"
+        android:id="@+id/BottomBarProfile"/>
+
+
+</menu>
